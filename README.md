@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 👩‍💻 About Me 
+
+
+
+🎓 **Education**  
+- **Master of Science in Information Systems **, Stevens Institute of Technology (Ongoing, Dec 2025) 
 
 <!--
 **herill/herill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
